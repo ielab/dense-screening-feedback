@@ -1,6 +1,7 @@
 # Dense-Screening-Feedback
 
-This repository contains the code, data, and run files for the SIGIR 2024 paper ***Dense Retrieval with Continuous Explicit Feedback for Systematic Review Screening Prioritisation***.
+This repository contains the code, data, and run files for the SIGIR 2024 paper ***Dense Retrieval with Continuous Explicit Feedback for Systematic Review Screening Prioritisation*** [[arXiv](https://arxiv.org/abs/2407.00635)].
+> Xinyu Mao, Shengyao Zhuang, Bevan Koopman, and Guido Zuccon. 2024. Dense Retrieval with Continuous Explicit Feedback for Systematic Review Screening Prioritisation. In Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '24). New York, USA. July 2024. [10.1145/3626772.3657921](10.1145/3626772.3657921)
 ____
 
 ### Dependencies
@@ -70,7 +71,19 @@ python goldilocks_screen.py --collection_split clef19_intervention
 
 ### Results
 
+The run files and evaluated results of each dense retriever on CLEF-TAR 17-19 test sets can be found [here]().
 
+### Citation
+If you find this repo useful for your research, please kindly cite the following paper:
+```
+@inproceedings{mao2024dense,
+  title={Dense Retrieval with Continuous Explicit Feedback for Systematic Review Screening Prioritisation},
+  author={Mao, Xinyu and Zhuang, Shengyao and Koopman, Bevan and Zuccon, Guido},
+  booktitle={Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={2357--2362},
+  year={2024}
+}
+```
 
 ### Contact
 

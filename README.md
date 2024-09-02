@@ -10,7 +10,7 @@ The environment is based on **Python 3.8**. We use [`Tevatron (v1)`](https://git
 
 
 ### Data
-We use the CLEF-TAR 2017-2019 collections for Subtask 2. The processed data for this paper are available on [Zenodo]().
+We use the CLEF-TAR 2017-2019 collections for Subtask 2. The processed data for this paper are available on [Zenodo](https://zenodo.org/records/13626584?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImMzM2RlNTI0LTJkYjUtNGI2NS1iM2ZhLWE2NzMwNjA4NTYxMiIsImRhdGEiOnt9LCJyYW5kb20iOiI4OGZiY2Q3N2QwMGI4OGY0NGQxYjRhZTViNmQ0MzA4MyJ9.lgkvY7NOP-9C8A8hxXJq4Gzj6W2ZrQqg6dL5H-qegY8qS5RpJ3BjkpcuM8NUOUb_jrLLrrbLNYw-WqDa27dS1w).
 
 ### Dense retrieval with explicit feedback
 

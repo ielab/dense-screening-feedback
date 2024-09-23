@@ -1,7 +1,7 @@
 # Dense-Screening-Feedback
 
 This repository contains the code, data, and run files for the SIGIR 2024 paper ***Dense Retrieval with Continuous Explicit Feedback for Systematic Review Screening Prioritisation*** [[arXiv](https://arxiv.org/abs/2407.00635)].
-> Xinyu Mao, Shengyao Zhuang, Bevan Koopman, and Guido Zuccon. 2024. Dense Retrieval with Continuous Explicit Feedback for Systematic Review Screening Prioritisation. In Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '24). New York, USA. July 2024. [10.1145/3626772.3657921](10.1145/3626772.3657921)
+> Xinyu Mao, Shengyao Zhuang, Bevan Koopman, and Guido Zuccon. 2024. Dense Retrieval with Continuous Explicit Feedback for Systematic Review Screening Prioritisation. In Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '24). New York, USA. July 2024. [10.1145/3626772.3657921](https://dl.acm.org/doi/10.1145/3626772.3657921)
 ____
 
 ### Dependencies
